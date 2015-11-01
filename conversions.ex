@@ -9,5 +9,5 @@ end
 
 # equivalent
 # Conversions.MetersToLength.convert(:feet, MathUtils.cb(MathUtils.sq(MathUtils.fac(4))))
-# MathUtils.fac(4) |> MathUtils.sq |> MathUtils.cb |> Conversions.MetersToLength.convert:w
+# MathUtils.fac(4) |> MathUtils.sq |> MathUtils.cb |> Conversions.MetersToLength.convert
 # 626978287.77984
